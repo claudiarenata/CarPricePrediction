@@ -659,7 +659,6 @@
 695,Mazda,626,2002,premium unleaded (required),165.0,6.0,MANUAL,4.0,Midsize,Sedan,25,19,586,21885,Cheap,0,0,1,0
 696,Maybach,62,2010,premium unleaded (required),604.0,12.0,AUTOMATIC,4.0,Large,Sedan,16,10,67,456500,Cheap,0,0,0,1
 697,Maybach,62,2010,premium unleaded (required),543.0,12.0,AUTOMATIC,4.0,Large,Sedan,16,10,67,417000,Cheap,0,0,0,1
-698,Maybach,62,2010,premium unleaded (required),631.0,12.0,AUTOMATIC,4.0,Large,Sedan,16,10,67,506500,Cheap,0,0,0,1
 699,Maybach,62,2011,premium unleaded (required),543.0,12.0,AUTOMATIC,4.0,Large,Sedan,16,10,67,423500,Cheap,0,0,0,1
 700,Maybach,62,2011,premium unleaded (required),620.0,12.0,AUTOMATIC,4.0,Large,Sedan,16,10,67,463000,Cheap,0,0,0,1
 701,Maybach,62,2012,premium unleaded (required),620.0,12.0,AUTOMATIC,4.0,Large,Sedan,16,10,67,470350,Cheap,0,0,0,1
@@ -1547,14 +1546,11 @@
 1619,Dodge,Avenger,2014,regular unleaded,173.0,4.0,AUTOMATIC,4.0,Midsize,Sedan,31,20,1851,23295,Cheap,0,0,1,0
 1620,Lamborghini,Aventador,2014,premium unleaded (required),700.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Convertible,16,10,1158,441600,Cheap,1,0,0,0
 1621,Lamborghini,Aventador,2014,premium unleaded (required),700.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Coupe,18,11,1158,397500,Cheap,1,0,0,0
-1622,Lamborghini,Aventador,2014,premium unleaded (required),720.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Convertible,16,10,1158,548800,Moderate,1,0,0,0
 1623,Lamborghini,Aventador,2014,premium unleaded (required),720.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Coupe,18,11,1158,497650,Cheap,1,0,0,0
 1624,Lamborghini,Aventador,2015,premium unleaded (required),700.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Convertible,16,10,1158,441600,Cheap,1,0,0,0
 1625,Lamborghini,Aventador,2015,premium unleaded (required),700.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Coupe,18,11,1158,397500,Cheap,1,0,0,0
-1626,Lamborghini,Aventador,2015,premium unleaded (required),720.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Convertible,16,10,1158,548800,Moderate,1,0,0,0
 1627,Lamborghini,Aventador,2015,premium unleaded (required),720.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Coupe,18,11,1158,497650,Cheap,1,0,0,0
 1628,Lamborghini,Aventador,2016,premium unleaded (required),700.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Convertible,17,10,1158,443800,Cheap,1,0,0,0
-1629,Lamborghini,Aventador,2016,premium unleaded (required),750.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Convertible,18,11,1158,535500,Moderate,1,0,0,0
 1630,Lamborghini,Aventador,2016,premium unleaded (required),750.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Coupe,18,11,1158,490700,Cheap,1,0,0,0
 1631,Lamborghini,Aventador,2016,premium unleaded (required),700.0,12.0,AUTOMATED_MANUAL,2.0,Midsize,Coupe,18,11,1158,399500,Cheap,1,0,0,0
 1632,Chevrolet,Aveo,2009,regular unleaded,107.0,4.0,MANUAL,4.0,Compact,4dr Hatchback,34,27,1385,11965,Cheap,0,0,1,0
@@ -3589,7 +3585,6 @@
 4021,GMC,Envoy,2009,regular unleaded,285.0,6.0,AUTOMATIC,4.0,Midsize,4dr SUV,20,14,549,32760,Cheap,0,1,0,0
 4022,GMC,Envoy,2009,regular unleaded,300.0,8.0,AUTOMATIC,4.0,Midsize,4dr SUV,20,14,549,38670,Cheap,0,1,0,0
 4023,GMC,Envoy,2009,regular unleaded,285.0,6.0,AUTOMATIC,4.0,Midsize,4dr SUV,20,14,549,33480,Cheap,0,0,0,1
-4024,Ferrari,Enzo,2003,premium unleaded (required),660.0,12.0,AUTOMATED_MANUAL,2.0,Compact,Coupe,12,7,2774,643330,Moderate,0,0,0,1
 4025,Volkswagen,Eos,2014,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,2.0,Compact,Convertible,30,22,873,38325,Cheap,0,0,1,0
 4026,Volkswagen,Eos,2014,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,2.0,Compact,Convertible,30,22,873,42095,Cheap,0,0,1,0
 4027,Volkswagen,Eos,2014,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,2.0,Compact,Convertible,30,22,873,35595,Cheap,0,0,1,0
@@ -5669,8 +5664,6 @@
 6347,Toyota,Land Cruiser,2015,regular unleaded,381.0,8.0,AUTOMATIC,4.0,Midsize,4dr SUV,18,13,2031,80155,Cheap,0,1,0,0
 6348,Toyota,Land Cruiser,2016,regular unleaded,381.0,8.0,AUTOMATIC,4.0,Midsize,4dr SUV,18,13,2031,83825,Cheap,0,1,0,0
 6349,Toyota,Land Cruiser,2017,regular unleaded,381.0,8.0,AUTOMATIC,4.0,Midsize,4dr SUV,18,13,2031,84325,Cheap,0,1,0,0
-6350,Maybach,Landaulet,2011,premium unleaded (required),620.0,12.0,AUTOMATIC,4.0,Large,Convertible,16,10,67,1380000,Expensive,0,0,0,1
-6351,Maybach,Landaulet,2012,premium unleaded (required),620.0,12.0,AUTOMATIC,4.0,Large,Convertible,16,10,67,1382750,Expensive,0,0,0,1
 6352,Plymouth,Laser,1992,regular unleaded,92.0,4.0,MANUAL,2.0,Compact,2dr Hatchback,29,21,535,2000,Cheap,0,0,1,0
 6353,Plymouth,Laser,1992,regular unleaded,135.0,4.0,MANUAL,2.0,Compact,2dr Hatchback,26,19,535,2000,Cheap,0,0,1,0
 6354,Plymouth,Laser,1992,regular unleaded,195.0,4.0,MANUAL,2.0,Compact,2dr Hatchback,26,19,535,2000,Cheap,0,0,1,0
@@ -7524,7 +7517,6 @@
 8483,Suzuki,Reno,2008,regular unleaded,127.0,4.0,MANUAL,4.0,Compact,4dr Hatchback,28,20,481,14339,Cheap,0,0,1,0
 8484,Suzuki,Reno,2008,regular unleaded,127.0,4.0,AUTOMATIC,4.0,Compact,4dr Hatchback,28,19,481,15349,Cheap,0,0,1,0
 8485,Suzuki,Reno,2008,regular unleaded,127.0,4.0,AUTOMATIC,4.0,Compact,4dr Hatchback,28,19,481,14939,Cheap,0,0,1,0
-8486,Lamborghini,Reventon,2008,premium unleaded (required),650.0,12.0,AUTOMATED_MANUAL,2.0,Compact,Coupe,14,9,1158,1500000,Expensive,1,0,0,0
 8487,Honda,Ridgeline,2013,regular unleaded,250.0,6.0,AUTOMATIC,4.0,Large,Crew Cab Pickup,21,15,2202,37380,Cheap,0,1,0,0
 8488,Honda,Ridgeline,2013,regular unleaded,250.0,6.0,AUTOMATIC,4.0,Large,Crew Cab Pickup,21,15,2202,30195,Cheap,0,1,0,0
 8489,Honda,Ridgeline,2013,regular unleaded,250.0,6.0,AUTOMATIC,4.0,Large,Crew Cab Pickup,21,15,2202,32155,Cheap,0,1,0,0
@@ -10057,9 +10049,6 @@
 11359,Nissan,Versa,2017,regular unleaded,109.0,4.0,MANUAL,4.0,Compact,Sedan,36,27,2009,11990,Cheap,0,0,1,0
 11360,Nissan,Versa,2017,regular unleaded,109.0,4.0,AUTOMATIC,4.0,Compact,Sedan,39,31,2009,14130,Cheap,0,0,1,0
 11361,Nissan,Versa,2017,regular unleaded,109.0,4.0,AUTOMATIC,4.0,Compact,Sedan,39,31,2009,15720,Cheap,0,0,1,0
-11362,Bugatti,Veyron 16.4,2008,premium unleaded (required),1001.0,16.0,AUTOMATED_MANUAL,2.0,Compact,Coupe,14,8,820,2065902,Super,1,0,0,0
-11363,Bugatti,Veyron 16.4,2008,premium unleaded (required),1001.0,16.0,AUTOMATED_MANUAL,2.0,Compact,Coupe,14,8,820,1500000,Expensive,1,0,0,0
-11364,Bugatti,Veyron 16.4,2009,premium unleaded (required),1001.0,16.0,AUTOMATED_MANUAL,2.0,Compact,Coupe,14,8,820,1705769,Super,1,0,0,0
 11365,Pontiac,Vibe,2008,regular unleaded,126.0,4.0,MANUAL,4.0,Compact,Wagon,33,26,210,16855,Cheap,0,0,1,0
 11366,Pontiac,Vibe,2009,regular unleaded,132.0,4.0,MANUAL,4.0,Compact,4dr Hatchback,32,26,210,16100,Cheap,0,0,1,0
 11367,Pontiac,Vibe,2009,regular unleaded,158.0,4.0,MANUAL,4.0,Compact,4dr Hatchback,28,21,210,16495,Cheap,0,0,1,0
